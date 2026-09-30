@@ -147,3 +147,82 @@ ___
     Параграф внутри второго пункта
 1. Третий пункт
 
+<https://skillbox.ru/media/code/>
+
+[Skillbox Media](https://skillbox.ru/media/) без подсказки
+
+[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
+
+
+
+[Skillbox Media][1]
+
+[Раздел «Код»][code]
+
+
+[1]: https://skillbox.ru/media "Всплывающая подсказка"
+[code]: https://skillbox.ru/media/code/
+
+
+
+![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+
+
+
+![Изображение][1]
+
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
+
+
+
+Функция `print (x)` выводит содержимое переменной ```x```.
+
+```
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+	let x = 12;
+	let y = 6;
+	console.log(x + y);
+
+
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
+```
+
+```c
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+```javascript
+let x = 12;
+let y = 6;
+console.log(x + y);
+```
+
+
+|Столбец 1|Столбец 2|Столбец 3|
+|-|--------|---|
+|Длинная запись в первом столбце|Запись в столбце 2|Запись в столбце 3|
+|Кртк зпс| |Слева нет записи|
+
+
+
+
+|Столбец 1|Столбец 2|Столбец 3|
+|:-|:-:|-:|
+|Равнение по левому краю|Равнение по центру|Равнение по правому краю|
+|Запись|Запись|Запись|
