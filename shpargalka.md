@@ -165,7 +165,7 @@ ___
 
 
 
-![Изображение](https://avatars.mds.yandex.net/i?id=6bb9a4777a39c7e3a93d5e434e170511_l-6996969-images-thumbs&n=13 "Логотип Markdown")
+![Изображение](https://images.meme-arsenal.com/de39a0c1f310671fc125048dcecb3862.jpg "Логотип Markdown")
 
 
 
