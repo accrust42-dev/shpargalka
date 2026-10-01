@@ -165,7 +165,7 @@ ___
 
 
 
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение](https://avatars.mds.yandex.net/i?id=6bb9a4777a39c7e3a93d5e434e170511_l-6996969-images-thumbs&n=13 "Логотип Markdown")
 
 
 
